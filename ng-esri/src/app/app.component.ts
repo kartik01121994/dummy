@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  mapCenter = [22.735956, 75.863713];
+  mapCenter = [-118.821527826096, 34.0139576938577];
   basemapType = 'hybrid';
   mapZoomLevel = 10
   groundtype = "world-elevation"
